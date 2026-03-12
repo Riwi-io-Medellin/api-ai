@@ -20,7 +20,7 @@ sk-proj-abc123xyz456...
 4. Clic en **"Create new secret key"**
 5. Copia la key inmediatamente (solo se muestra una vez)
 
-> ⚠️ Necesitas agregar un método de pago para usar la API. OpenAI cobra por uso (tokens consumidos).
+Necesitas agregar un método de pago para usar la API. OpenAI cobra por uso (tokens consumidos).
 
 ---
 
@@ -62,7 +62,7 @@ OPENAI_API_KEY=sk-proj-tu-key-aqui
 node_modules/
 ```
 
-> 🔒 Esto evita que tu key se suba a GitHub por accidente.
+Esto evita que tu key se suba a GitHub por accidente.
 
 ### Paso 3: Lee la variable en tu código
 
@@ -89,4 +89,4 @@ const client = new OpenAI();
 
 ---
 
-**Volver al inicio:** [← README](../README.md)
+Volver al inicio: [README](../README.md)

@@ -12,7 +12,7 @@ Todas las peticiones van a esta URL (Responses API):
 POST https://api.openai.com/v1/responses
 ```
 
-> También existe el endpoint legacy `v1/chat/completions`, pero la API recomendada es **Responses**.
+También existe el endpoint legacy `v1/chat/completions`, pero la API recomendada es **Responses**.
 
 ---
 
@@ -100,7 +100,7 @@ Forma con roles (para conversaciones):
 | `gpt-4.1` | Chat | $2.00 | Modelo no-razonamiento más inteligente |
 | `o4-mini` | Razonamiento | $1.10 | Lógica, matemáticas, código complejo |
 
-> 📖 Lista completa de modelos: [platform.openai.com/docs/models](https://platform.openai.com/docs/models)
+Lista completa de modelos: [platform.openai.com/docs/models](https://platform.openai.com/docs/models)
 
 ---
 
@@ -122,4 +122,4 @@ Tu programa
 
 ---
 
-**Siguiente:** [03 - API Key: qué es y cómo protegerla →](03-api-key.md)
+Siguiente: [03 - API Key: qué es y cómo protegerla](03-api-key.md)

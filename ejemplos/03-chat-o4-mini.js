@@ -1,12 +1,8 @@
-/**
- * Ejemplo 3: Chat con o4-mini
- *
- * o4-mini es un modelo de RAZONAMIENTO.
- * Piensa paso a paso antes de responder.
- * Ideal para lógica, matemáticas y código complejo.
- *
- * Ejecutar: node 03-chat-o4-mini.js
- */
+// Ejemplo 3: Chat con o4-mini
+// o4-mini es un modelo de RAZONAMIENTO.
+// Piensa paso a paso antes de responder.
+// Ideal para lógica, matemáticas y código complejo.
+// Ejecutar: node 03-chat-o4-mini.js
 
 import "dotenv/config";
 import OpenAI from "openai";

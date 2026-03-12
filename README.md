@@ -1,12 +1,12 @@
-# 🤖 Aprende a usar la API de OpenAI
+# Aprende a usar la API de OpenAI
 
 Repositorio educativo para entender cómo funcionan las APIs de inteligencia artificial, específicamente la de **OpenAI**.
 
-> Actualizado: 12 de marzo de 2026
+Actualizado: 12 de marzo de 2026
 
 ---
 
-## 📚 Documentación
+## Documentación
 
 | # | Tema | Archivo |
 |---|------|---------|
@@ -14,7 +14,7 @@ Repositorio educativo para entender cómo funcionan las APIs de inteligencia art
 | 2 | ¿Cómo funciona la API de OpenAI? | [docs/02-como-funciona-openai.md](docs/02-como-funciona-openai.md) |
 | 3 | API Key: qué es y cómo protegerla | [docs/03-api-key.md](docs/03-api-key.md) |
 
-## 💻 Ejemplos prácticos
+## Ejemplos prácticos
 
 | # | Modelo | Archivo |
 |---|--------|---------|
@@ -24,7 +24,7 @@ Repositorio educativo para entender cómo funcionan las APIs de inteligencia art
 
 ---
 
-## 🚀 Cómo correr los ejemplos
+## Cómo correr los ejemplos
 
 ### Requisitos previos
 
@@ -55,7 +55,7 @@ node 03-chat-o4-mini.js
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 api-ai/

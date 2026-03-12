@@ -62,4 +62,4 @@ Body:
 
 ---
 
-**Siguiente:** [02 - Cómo funciona la API de OpenAI →](02-como-funciona-openai.md)
+Siguiente: [02 - Cómo funciona la API de OpenAI](02-como-funciona-openai.md)

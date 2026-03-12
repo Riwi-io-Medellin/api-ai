@@ -1,11 +1,7 @@
-/**
- * Ejemplo 1: Chat con GPT-5.4
- *
- * GPT-5.4 es el modelo flagship de OpenAI (marzo 2026).
- * El más inteligente para tareas complejas, agentes y código.
- *
- * Ejecutar: node 01-chat-gpt5-4.js
- */
+// Ejemplo 1: Chat con GPT-5.4
+// GPT-5.4 es el modelo flagship de OpenAI (marzo 2026).
+// El más inteligente para tareas complejas, agentes y código.
+// Ejecutar: node 01-chat-gpt5-4.js
 
 import "dotenv/config";
 import OpenAI from "openai";
