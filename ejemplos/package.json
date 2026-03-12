@@ -1,0 +1,10 @@
+{
+  "name": "ejemplos-openai",
+  "version": "1.0.0",
+  "description": "Ejemplos básicos para conectarse a la API de OpenAI",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.85.0",
+    "dotenv": "^16.4.0"
+  }
+}
